@@ -1,0 +1,5 @@
+To use the art (On scratch) simply go to the "add sprite menu" then click upload , then look for the file called "ArtPack-99-Nights-In-The-Forest" or "99 Nights In The Forest (Art)" 
+Then open that folder up and select which art you want to use , then on scratch you should have the sprite on the sprite editor.
+
+NOTE: Resizing the pixel art could make it look weird and broken , so I strongly suggest to ither not resize the art or only resize it evenly . If your going to resize pixel art make
+sure to resize other pixel art in a similar way to make them look less broken and to match the 64x64 theme.
